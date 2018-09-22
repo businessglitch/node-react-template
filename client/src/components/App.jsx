@@ -13,7 +13,6 @@ class App extends Component {
 	render() {
 		return (
 			<div> 
-				<Header />
 				<div id="body-section">
 					App works
 				</div>
