@@ -4,23 +4,3 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
-#repositories-section {
-	float:left;
-	width: 50%;
-	min-height: 100%;
-	flex-direction: column;
-}
-
-#favourites-section {
-	float:left;
-	width: 50%;
-	background-color: #F5ECFD;
-	height: 100%;
-	display: flex;
-}
-
-#body-section {
-	height: 100%;
-	position: absolute;
-    width: 100%;
-}
